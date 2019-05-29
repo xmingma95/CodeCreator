@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">条形码生成器</string>
+    <string name="et_code_hint">请输入条码号</string>
+    <string name="bt_create">确定</string>
+    <string name="bt_scan_text">扫描条形码</string>
+    <string name="et_mark_hint">请输入备注</string>
+    <string name="rb_save_text">自动保存</string>
+</resources>
